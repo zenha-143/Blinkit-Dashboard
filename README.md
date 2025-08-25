@@ -8,6 +8,7 @@ The dashboard was build using the following tools and technologies:
 * Data modeling -Relationships established among tables(Average sales,No of items,average rating)to enable cross-filtering and aggregation.
 * File format- .pbix for development and .png for dashboard previews
 Business problem
-Blinkit saales performence,customer satisfaction & inventory distribution
+Blinkit saales performence,customer satisfaction & inventory distribution.
+
 Screenshort:
 https://github.com/zenha-143/Blinkit-Dashboard/blob/main/blinkitss.png
