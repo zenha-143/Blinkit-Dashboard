@@ -10,4 +10,4 @@ The dashboard was build using the following tools and technologies:
 Business problem
 Blinkit saales performence,customer satisfaction & inventory distribution
 Screenshort:
-(https://github.com/zenha-143/Blinkit-Dashboard/blob/main/blinkitss.png)
+https://github.com/zenha-143/Blinkit-Dashboard/blob/main/blinkitss.png
